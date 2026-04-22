@@ -1,3 +1,9 @@
+## [875f584] - 2024-05-03
+
+### Create Intro_2_python_if_else.py
+
+Added a new introductory Python solution demonstrating conditional logic with if-else statements. The program reads an integer input and determines if it is "Weird" or "Not Weird" based on the following rules: odd numbers are "Weird", even numbers in the range 2-5 are "Not Weird", even numbers in the range 6-20 are "Weird", and even numbers greater than 20 are "Not Weird".
+
 ## [62b113c] - 2024-05-03
 ### necessary files
 This commit adds IDE configuration files (.idea directory) and an empty Python starter file (Intro_1_hello_world.py). These are project setup/infrastructure changes with no functional code changes or user-facing features.
