@@ -51,8 +51,24 @@ This repository contains solutions for Python questions on HackerRank.
 
 ## How to Use
 
-Each solution file contains commented metadata (date and author) at the top followed by the solution code. Run any solution file directly with Python:
+Each solution file can be run independently:
 
 ```bash
-python Intro_1_hello_world.py
+python Intro_2_python_if_else.py
 ```
+
+When prompted, enter an integer to test the if-else logic.
+
+### Introductory Problems
+
+- **Intro_1_hello_world.py** — Basic "Hello World" program
+- **Intro_2_python_if_else.py** — Conditional logic using if-else statements. Determines if a number is "Weird" or "Not Weird" based on divisibility and range checks
+- **Intro_3_arithmetic_operators.py** — Arithmetic operations
+- **Intro_4_python_division.py** — Division operations in Python
+- **Intro_5_loops.py** — Loop constructs and iteration
+- **Intro_6_leap_year.py** — Leap year determination logic
+- **Intro_7_print_function.py** — Advanced print function usage
+
+## Author
+
+Ram Shukla, Hyderabad, India
