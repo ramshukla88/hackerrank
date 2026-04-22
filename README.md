@@ -1,8 +1,7 @@
 # hackerrank
 
 HackerRank Solutions
-
-This repository contains solutions for Python questions on HackerRank.
+This repository contains solutions for all Python questions on HackerRank.
 
 ## Solutions Included
 
@@ -59,17 +58,15 @@ python Intro_2_python_if_else.py
 
 When prompted, enter an integer to test the if-else logic.
 
-## Introductory Problems
+### Introductory Problems
 
-This collection includes solutions to the HackerRank Python introductory tutorial problems:
-
-- **Intro_1_hello_world.py** - Basic print statement
-- **Intro_2_python_if_else.py** - Conditional logic (if/else statements)
-- **Intro_3_arithmetic_operators.py** - Arithmetic operations (+, -, *, //, %, **)
-- **Intro_4_python_division.py** - Division operators (integer division // and float division /)
-- **Intro_5_loops.py** - Loop constructs (for and while loops)
-- **Intro_6_leap_year.py** - Leap year validation logic
-- **Intro_7_print_function.py** - Print function formatting and options
+- **Intro_1_hello_world.py** - Basic "Hello World" program
+- **Intro_2_python_if_else.py** - Conditional statements (if/else)
+- **Intro_3_arithmetic_operators.py** - Arithmetic operations
+- **Intro_4_python_division.py** - Division operations
+- **Intro_5_loops.py** - Loop iteration and square calculation
+- **Intro_6_leap_year.py** - Leap year determination
+- **Intro_7_print_function.py** - Print function formatting
 
 ## Author
 
@@ -92,3 +89,5 @@ The repository includes solutions to introductory Python problems:
 ## Contents
 
 Each file demonstrates a core Python concept with clear, commented examples suitable for beginners.
+
+## Solutions
