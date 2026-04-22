@@ -2,7 +2,7 @@
 
 HackerRank Solutions
 
-This repository contains solutions for all Python questions on HackerRank.
+This repository contains solutions for Python questions on HackerRank.
 
 ## Solutions Included
 
@@ -59,15 +59,17 @@ python Intro_2_python_if_else.py
 
 When prompted, enter an integer to test the if-else logic.
 
-### Introductory Problems
+## Introductory Problems
 
-- **Intro_1_hello_world.py** — Basic "Hello World" program
-- **Intro_2_python_if_else.py** — Conditional logic using if-else statements. Determines if a number is "Weird" or "Not Weird" based on divisibility and range checks
-- **Intro_3_arithmetic_operators.py** — Arithmetic operations
-- **Intro_4_python_division.py** — Division operations in Python
-- **Intro_5_loops.py** — Loop constructs and iteration
-- **Intro_6_leap_year.py** — Leap year determination logic
-- **Intro_7_print_function.py** — Advanced print function usage
+This collection includes solutions to the HackerRank Python introductory tutorial problems:
+
+- **Intro_1_hello_world.py** - Basic print statement
+- **Intro_2_python_if_else.py** - Conditional logic (if/else statements)
+- **Intro_3_arithmetic_operators.py** - Arithmetic operations (+, -, *, //, %, **)
+- **Intro_4_python_division.py** - Division operators (integer division // and float division /)
+- **Intro_5_loops.py** - Loop constructs (for and while loops)
+- **Intro_6_leap_year.py** - Leap year validation logic
+- **Intro_7_print_function.py** - Print function formatting and options
 
 ## Author
 
@@ -86,3 +88,7 @@ The repository includes solutions to introductory Python problems:
 | Intro_5_loops.py | Loops | Loop constructs |
 | Intro_6_leap_year.py | Leap Year | Leap year calculation logic |
 | Intro_7_print_function.py | Print Function | Print statement usage |
+
+## Contents
+
+Each file demonstrates a core Python concept with clear, commented examples suitable for beginners.
