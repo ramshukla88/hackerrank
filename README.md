@@ -72,3 +72,17 @@ When prompted, enter an integer to test the if-else logic.
 ## Author
 
 Ram Shukla, Hyderabad, India
+
+## Solutions Overview
+
+The repository includes solutions to introductory Python problems:
+
+| File | Problem | Description |
+|------|---------|-------------|
+| Intro_1_hello_world.py | Hello World | Basic output |
+| Intro_2_python_if_else.py | If-Else | Conditional statements |
+| Intro_3_arithmetic_operators.py | Arithmetic Operators | Basic arithmetic operations (addition, subtraction, multiplication) |
+| Intro_4_python_division.py | Python Division | Division operations |
+| Intro_5_loops.py | Loops | Loop constructs |
+| Intro_6_leap_year.py | Leap Year | Leap year calculation logic |
+| Intro_7_print_function.py | Print Function | Print statement usage |
