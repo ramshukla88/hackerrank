@@ -27,3 +27,32 @@ This repository contains solutions for all Python questions on HackerRank.
 5. **Intro_5_loops.py** - Loop constructs
 6. **Intro_6_leap_year.py** - Leap year determination logic
 7. **Intro_7_print_function.py** - Print function usage
+
+# HackerRank Solutions
+
+This repository contains solutions for Python questions on HackerRank.
+
+## Solutions List
+
+### Introduction
+
+- **Intro_1_hello_world.py** - Hello World: Simple string printing exercise
+- **Intro_3_arithmetic_operators.py** - Arithmetic operators
+- **Intro_4_python_division.py** - Python division
+- **Intro_5_loops.py** - Loops
+- **Intro_6_leap_year.py** - Leap year checker
+- **Intro_7_print_function.py** - Print function
+
+## Repository Information
+
+**Author:** Ram Shukla  
+**Location:** Hyderabad, India  
+**Python Version:** 3.12
+
+## How to Use
+
+Each solution file contains commented metadata (date and author) at the top followed by the solution code. Run any solution file directly with Python:
+
+```bash
+python Intro_1_hello_world.py
+```
